@@ -1,5 +1,5 @@
 Welcome to Linuxication 2k19
 
-a=10;
-b=20;
-cout<<a+b;
+b=30;
+a=20;
+cout<<b+a;
