@@ -1,6 +1,6 @@
 Welcome to Linuxication 2k19
 
 b=30;
-a=20;
+a=20i;
 this file has changed at this point
 cout<<b+a;
