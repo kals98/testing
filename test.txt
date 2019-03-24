@@ -1,1 +1,5 @@
 Welcome to Linuxication 2k19
+
+b=30;
+a=20;
+cout<<b+a;
